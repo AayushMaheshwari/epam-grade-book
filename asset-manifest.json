@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/epam-grade-book/static/css/main.6836536a.css",
+    "main.js": "/epam-grade-book/static/js/main.beb4dbbc.js",
+    "static/js/787.b539b38f.chunk.js": "/epam-grade-book/static/js/787.b539b38f.chunk.js",
+    "static/media/calenderIcon.png": "/epam-grade-book/static/media/calenderIcon.ce1be548d30a629a6e7c.png",
+    "static/media/logo.png": "/epam-grade-book/static/media/logo.bf13efefcdc78a5ab6f9.png",
+    "static/media/timeIcon.png": "/epam-grade-book/static/media/timeIcon.ebc8603a9835f1f85fb1.png",
+    "static/media/uni.png": "/epam-grade-book/static/media/uni.7bbc3e915793e3385e7e.png",
+    "static/media/professor.png": "/epam-grade-book/static/media/professor.33e7df0963941edbeb70.png",
+    "index.html": "/epam-grade-book/index.html",
+    "main.6836536a.css.map": "/epam-grade-book/static/css/main.6836536a.css.map",
+    "main.beb4dbbc.js.map": "/epam-grade-book/static/js/main.beb4dbbc.js.map",
+    "787.b539b38f.chunk.js.map": "/epam-grade-book/static/js/787.b539b38f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6836536a.css",
+    "static/js/main.beb4dbbc.js"
+  ]
+}
